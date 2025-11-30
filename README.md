@@ -1,4 +1,4 @@
- 📚 STIIS_AssignmentsRepo
+## 📚 STIIS_AssignmentsRepo
 
 A repository dedicated to **Special Topics in Information Security (STIIS)** — Academic Year *2025/2026*.
 
